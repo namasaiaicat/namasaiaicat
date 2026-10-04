@@ -18,34 +18,30 @@
 
 ```text
 📁 namasaiaicat / collection
- ├─ GET     /stack
- ├─ GET     /vibecoding-tools
- ├─ POST    /ship-project
- ├─ PUT     /fix-bug-later
+ ├─ GET     /planning
+ ├─ GET     /tolong kerjakan...
+ ├─ POST    /deploy
  └─ DELETE  /sleep
 ```
 
 ```http
 GET {{baseUrl}}/profile
 Accept: application/json
-Authorization: Bearer {{vibes}}
+Authorization: Bearer {{token}}
 ```
 
 ```json
 // 200 OK · 69 ms · 1.2 KB
 {
   "user": "namasaiaicat",
-  "motto": "Drain ur life.",
-  "status": "shipping",
-  "vibecoding": true,
-  "bugs": "later",
-  "sleep": null
+  "philosophy": "live happily.",
+  "status": "broke"
 }
 ```
 
 <br/>
 
-## `$ aku:
+## `$ 😂
 
 ```diff
 # you

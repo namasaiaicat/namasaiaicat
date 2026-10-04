@@ -9,8 +9,7 @@
 ![Postman](https://img.shields.io/badge/Postman-0D1117?style=for-the-badge&logo=postman&logoColor=FF6C37&labelColor=0D1117&color=30363d)
 ![Claude](https://img.shields.io/badge/Claude-0D1117?style=for-the-badge&logo=claude&logoColor=D97757&labelColor=0D1117&color=30363d)
 ![Cursor](https://img.shields.io/badge/Cursor-0D1117?style=for-the-badge&logo=cursor&logoColor=white&labelColor=0D1117&color=30363d)
-![GitHub Copilot](https://img.shields.io/badge/Copilot-0D1117?style=for-the-badge&logo=githubcopilot&logoColor=white&labelColor=0D1117&color=30363d)
-![ChatGPT](https://img.shields.io/badge/ChatGPT-0D1117?style=for-the-badge&logo=openai&logoColor=74AA9C&labelColor=0D1117&color=30363d)
+[![Prisma](https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white)](#)
 
 <br/>
 

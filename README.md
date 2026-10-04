@@ -27,27 +27,9 @@
 
 </div>
 
-> 💡 Tambahkan badge lain (React, Node.js, dll.) di [shields.io](https://shields.io) / [simpleicons.org](https://simpleicons.org) sesuai skill kamu.
-
----
-
-## 🚀 Featured Project
-
-<div align="center">
-
-<a href="https://github.com/namasaiaicat/9drive-drived">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=namasaiaicat&repo=9drive-drived&theme=radical&hide_border=true" alt="9drive-drived" />
-</a>
-
-</div>
-
-**9drive-drived** — rebuild dari open source 9drive menjadi website lokal untuk mengelola drive: UI mirip Google Drive, storage management, integrasi S3, dan banyak lagi.
-
----
-
 ## 📊 GitHub Stats
 
-<div align="center">
+<div align="">
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=namasaiaicat&show_icons=true&theme=radical&hide_border=true&count_private=true" />
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=namasaiaicat&layout=compact&theme=radical&hide_border=true" />

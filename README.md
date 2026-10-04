@@ -1,3 +1,12 @@
+<div align="center">
+
+<a href="https://github.com/namasaiaicat">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2500&pause=800&color=00FF41&background=0D1117&center=false&vCenter=true&multiline=true&repeat=false&width=520&height=120&lines=%24+whoami;namasaiaicat;%24+echo+%22Drain+ur+life.%22;Drain+ur+life.;%24+_" alt="terminal" />
+</a>
+
+</div>
+
+<br/>
 
 ## `$ ls ./stack`
 
@@ -5,6 +14,7 @@
 ![Node.js](https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=nodedotjs&logoColor=5FA04E&labelColor=0D1117&color=30363d)
 ![React](https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=0D1117&color=30363d)
 ![Git](https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=F05032&labelColor=0D1117&color=30363d)
+![Postman](https://img.shields.io/badge/Postman-0D1117?style=for-the-badge&logo=postman&logoColor=FF6C37&labelColor=0D1117&color=30363d)
 ![Claude](https://img.shields.io/badge/Claude-0D1117?style=for-the-badge&logo=claude&logoColor=D97757&labelColor=0D1117&color=30363d)
 ![Cursor](https://img.shields.io/badge/Cursor-0D1117?style=for-the-badge&logo=cursor&logoColor=white&labelColor=0D1117&color=30363d)
 ![GitHub Copilot](https://img.shields.io/badge/Copilot-0D1117?style=for-the-badge&logo=githubcopilot&logoColor=white&labelColor=0D1117&color=30363d)
@@ -12,13 +22,49 @@
 
 <br/>
 
-## `$ cat status.log`
+## `$ postman run ./namasaiaicat`
 
-```bash
-[ OK ] vibecoding ........ enabled
-[ OK ] coffee ............ loaded
-[ OK ] sleep ............. not found
-[ >> ] shipping projects . running
+```text
+📁 namasaiaicat / collection
+ ├─ GET     /stack
+ ├─ GET     /vibecoding-tools
+ ├─ POST    /ship-project
+ ├─ PUT     /fix-bug-later
+ └─ DELETE  /sleep
+```
+
+```http
+GET {{baseUrl}}/profile
+Accept: application/json
+Authorization: Bearer {{vibes}}
+```
+
+```json
+// 200 OK · 69 ms · 1.2 KB
+{
+  "user": "namasaiaicat",
+  "motto": "Drain ur life.",
+  "status": "shipping",
+  "vibecoding": true,
+  "bugs": "later",
+  "sleep": null
+}
+```
+
+<br/>
+
+## `$ claude "prompt"`
+
+```diff
+# you
+> bikinin aku app yang keren, jangan ada bug ya 🙏
+
+# claude
++ ✓ 12 files created
++ ✓ build success
+- ✗ 47 errors found
+! ↻ fixing... (attempt 99)
++ ✓ it works (don't touch it)
 ```
 
 <br/>

@@ -7,7 +7,7 @@ $ ls ./apa ajalah😹
 📁 namasaiaicat / workflow
  ├─ GET     /planning
  ├─ GET     /tolong kerjakan...
- ├─ POST    /tolong cek... sekalian commitin
+ ├─ POST    /tolong cek... sekalian commit
  └─ DELETE  /sleep
 ```
 

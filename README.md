@@ -1,12 +1,3 @@
-<div align="center">
-
-<a href="https://github.com/namasaiaicat">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2500&pause=800&color=00FF41&background=0D1117&center=false&vCenter=true&multiline=true&repeat=false&width=520&height=120&lines=%24+whoami;namasaiaicat;%24+echo+%22Drain+ur+life.%22;Drain+ur+life.;%24+_" alt="terminal" />
-</a>
-
-</div>
-
-<br/>
 
 ## `$ ls ./stack`
 

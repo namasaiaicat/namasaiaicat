@@ -45,11 +45,11 @@ Authorization: Bearer {{vibes}}
 
 <br/>
 
-## `$ claude "prompt"`
+## `$ aku:
 
 ```diff
 # you
-> bikinin aku app yang keren, jangan ada bug ya 🙏
+> build me a website, no mistakes 🙏
 
 # claude
 + ✓ 12 files created

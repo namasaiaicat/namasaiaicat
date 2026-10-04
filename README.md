@@ -15,13 +15,6 @@
 
 ---
 
-## 👋 About Me
-
-- 🎓 Siswa di **SMK Bina Informatika Bintaro**
-- 📍 Tangerang Selatan, Indonesia
-- 💻 Suka ngulik web & bikin project sendiri
-- 🔥 Motto: *Drain ur life*
-
 ---
 
 ## 🛠️ Tech Stack

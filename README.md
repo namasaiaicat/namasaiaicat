@@ -32,7 +32,7 @@ Authorization: Bearer {{token}}
 
 ```diff
 # you
-> build me a website, no mistakes 🙏
+> build me a website, no mistakes !!!!!!!!!!🙏
 
 # claude
 + ✓ 12 files created

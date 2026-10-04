@@ -19,7 +19,7 @@
 
 ## 🛠️ Tech Stack
 
-<div align="center">
+<div align="">
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)

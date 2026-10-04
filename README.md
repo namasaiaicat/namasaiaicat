@@ -4,7 +4,7 @@ $ ls ./apa ajalah yang penting tuff😹
 ## `$ postman run ./namasaiaicat`
 
 ```text
-📁 namasaiaicat / workflow
+📁 namasaiaicat / lifecycle
  ├─ GET     /planning
  ├─ GET     /tolong kerjakan...
  ├─ POST    /tolong cek... sekalian commit

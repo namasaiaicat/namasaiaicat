@@ -7,7 +7,7 @@ $ ls ./apa ajalah yang penting tuff😹
 📁 namasaiaicat / lifecycle
  ├─ GET     /planning
  ├─ GET     /tolong kerjakan...
- ├─ POST    /tolong cek... sekalian commit
+ ├─ POST    /doomscroll
  └─ DELETE  /sleep
 ```
 

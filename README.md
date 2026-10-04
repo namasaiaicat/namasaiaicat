@@ -28,7 +28,7 @@ Authorization: Bearer {{token}}
 
 <br/>
 
-## `$ 😂
+## `$ tolong kerjakan...
 
 ```diff
 # you
@@ -43,17 +43,3 @@ Authorization: Bearer {{token}}
 ```
 
 <br/>
-
-## `$ git log --pinned`
-
-<a href="https://github.com/namasaiaicat/9drive-drived">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=namasaiaicat&repo=9drive-drived&theme=dark&bg_color=0D1117&border_color=30363d&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9" alt="9drive-drived" />
-</a>
-
-<br/>
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=1200&pause=400&color=00FF41&center=true&vCenter=true&width=300&height=30&lines=~+%24+_;~+%24+" alt="cursor" />
-
-</div>
